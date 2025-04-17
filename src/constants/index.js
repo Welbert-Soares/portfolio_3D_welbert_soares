@@ -79,7 +79,7 @@ const abilities = [
   },
   {
     imgPath: "/images/chat.png",
-    title: "Reliable Communication",
+    title: "Comunicação Acertiva",
     desc: "Mantendo você atualizado em cada etapa para garantir transparência e clareza.",
   },
   {

@@ -162,8 +162,8 @@ const expCards = [
   {
     review:
       "As contribuições do Welbert para os aplicativos web do Docker foram excepcionais. Ele aborda os desafios com uma mentalidade de resolução de problemas.",
-    imgPath: "/images/exp2.png",
-    logoPath: "/images/logo2.png",
+    imgPath: "/images/exp3.png",
+    logoPath: "/images/logo3.png",
     title: "Desenvolvedor Full Stack",
     date: "Junho 2020 - Dezembro 2023",
     responsibilities: [
@@ -175,8 +175,8 @@ const expCards = [
   {
     review:
       "O trabalho do Welbert no aplicativo móvel da Appwrite trouxe um alto nível de qualidade e eficiência. Ele entregou soluções que aprimoraram nossa experiência móvel e atenderam aos nossos objetivos de produto.",
-    imgPath: "/images/exp3.png",
-    logoPath: "/images/logo3.png",
+    imgPath: "/images/exp2.png",
+    logoPath: "/images/logo2.png",
     title: "Desenvolvedor React Native",
     date: "Março 2019 - Maio 2020",
     responsibilities: [
